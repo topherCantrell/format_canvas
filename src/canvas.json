@@ -1,0 +1,12 @@
+{
+  "modules" : [
+      {
+          "title" : "Python Week 1",
+          "content" : [
+              {"type":"page", "canvas":"https://uah.instructure.com/courses/45964/pages/01-environment", "github":"https://github.com/topherCantrell/class-IntroPython/blob/master/Topics/01_Environment/README.md"},
+              {"type":"header", "text":"Day 1"}              ,
+              {"type":"page", "canvas":"https://uah.instructure.com/courses/45964/pages/11-oo-basics", "github":"https://github.com/topherCantrell/class-IntroPython/blob/master/Topics/11_OO_Basics/README.md"},
+          ]
+      }
+  ]
+}
